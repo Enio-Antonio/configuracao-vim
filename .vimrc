@@ -9,3 +9,8 @@ colorscheme spacecamp
 map <C-z> :NERDTreeToggle<cr>
 set encoding=utf8
 inoremap <C-H> <C-W>
+
+" Somente Windows
+" noremap <C-S> :wq<CR>
+" vnoremap <C-S> <C-C>:wq<CR>
+" inoremap <C-S> <Esc>:wq<CR>
